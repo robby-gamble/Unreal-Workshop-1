@@ -2463,3 +2463,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.27-21.17.22:351][337]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.27-21.17.22:351][337]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.10.27-21.17.22:351][337]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.27-21.27.22:459][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.10.27-21.27.22:590][552]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.168
+[2021.10.27-21.27.22:591][552]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Materials/M_Pickup_Coin] ([1] browsable assets)...
+[2021.10.27-21.27.22:606][552]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Materials/M_Pickup_Coin.M_Pickup_Coin]
+[2021.10.27-21.27.22:606][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Materials/M_Pickup_Coin]
+[2021.10.27-21.27.22:613][552]LogSavePackage: Moving '../../../../projects/Unreal-Workshop-1/MyProject2/Saved/M_Pickup_Coin_Auto161EB3CF84F9696BD55C305B127BA580F.tmp' to '../../../../projects/Unreal-Workshop-1/MyProject2/Saved/Autosaves/Game/Fundamentals/Blueprints/EssentialConcepts/FinishedAssets/Materials/M_Pickup_Coin_Auto1.uasset'
+[2021.10.27-21.27.22:614][552]LogFileHelpers: Auto-saving content packages took 0.023
