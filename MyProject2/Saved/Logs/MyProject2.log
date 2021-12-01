@@ -2966,3 +2966,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.01-19.48.49:062][732]Cmd: EDIT COPY
 [2021.12.01-19.48.49:241][743]Cmd: EDIT COPY
 [2021.12.01-19.48.49:389][752]Cmd: EDIT COPY
+[2021.12.01-19.51.16:904][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.12.01-19.51.16:938][302]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.042
